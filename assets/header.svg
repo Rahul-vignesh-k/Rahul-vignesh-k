@@ -1,0 +1,19 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Rahul Vignesh — AI Engineer</title>
+  <desc id="desc">A graphite banner with a restrained cyan and violet systems motif.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse"><stop stop-color="#07111F"/><stop offset="0.58" stop-color="#0B1526"/><stop offset="1" stop-color="#15102B"/></linearGradient>
+    <linearGradient id="accent" x1="115" y1="0" x2="1030" y2="0" gradientUnits="userSpaceOnUse"><stop stop-color="#3DD9EB"/><stop offset="0.55" stop-color="#5B8CFF"/><stop offset="1" stop-color="#A879FF"/></linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(970 150) rotate(180) scale(340 240)" gradientUnits="userSpaceOnUse"><stop stop-color="#7047EB" stop-opacity="0.22"/><stop offset="1" stop-color="#7047EB" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" stroke="#7CDDEA" stroke-opacity="0.055"/></pattern>
+  </defs>
+  <rect width="1200" height="320" rx="24" fill="url(#bg)"/><rect width="1200" height="320" rx="24" fill="url(#grid)"/><rect width="1200" height="320" rx="24" fill="url(#glow)"/>
+  <path d="M868 73H961L1000 112H1093" stroke="url(#accent)" stroke-opacity="0.42"/><path d="M832 247H925L968 204H1093" stroke="url(#accent)" stroke-opacity="0.32"/>
+  <circle cx="868" cy="73" r="5" fill="#3DD9EB"/><circle cx="1000" cy="112" r="5" fill="#6E85FF"/><circle cx="1093" cy="112" r="5" fill="#A879FF"/><circle cx="832" cy="247" r="5" fill="#3DD9EB"/><circle cx="968" cy="204" r="5" fill="#6E85FF"/><circle cx="1093" cy="204" r="5" fill="#A879FF"/>
+  <rect x="76" y="63" width="176" height="30" rx="15" fill="#10263B" stroke="#3DD9EB" stroke-opacity="0.48"/><circle cx="95" cy="78" r="4" fill="#3DD9EB"/>
+  <text x="109" y="83" fill="#A9EAF2" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="13" font-weight="600" letter-spacing="1.6">AI ENGINEERING</text>
+  <text x="76" y="156" fill="#F4F8FF" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="55" font-weight="720" letter-spacing="1.2">RAHUL VIGNESH</text>
+  <rect x="76" y="177" width="594" height="3" rx="1.5" fill="url(#accent)"/>
+  <text x="76" y="218" fill="#B9C8DC" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="20" font-weight="500" letter-spacing="0.8">AGENTIC SYSTEMS  ·  RAG  ·  APPLIED ML</text>
+  <text x="76" y="259" fill="#7F91A9" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="16">Building reliable AI systems from retrieval and reasoning to APIs, evaluation, and delivery.</text>
+</svg>
